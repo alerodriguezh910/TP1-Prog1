@@ -1,0 +1,31 @@
+Recursivo
+
+VENTAJAS
+
+Código conciso: Produce código más corto y elegante para problemas que son naturalmente recursivos
+
+Legibilidad: Alta para problemas matemáticos o basados en la definición recursiva.
+
+DESVENJATAS
+
+Overhead: Consume más tiempo y memoria debido al manejo de la pila de llamadas por cada invocación a la función.
+
+Riesgo de Stack Overflow: Si la recursión no tiene un caso base adecuado o la entrada es muy grande, puede agotar la memoria de la pila, resultando en un error de Stack Overflow.
+
+Iterativo
+
+VENTAJAS
+
+Riesgo de Stack Overflow: Si la recursión no tiene un caso base adecuado o la entrada es muy grande, puede agotar la memoria de la pila, resultando en un error de Stack Overflow.
+
+Simplicidad: Más fácil de entender y depurar para tareas secuenciales o lineales
+
+DESVENTAJAS
+
+Simplicidad: Más fácil de entender y depurar para tareas secuenciales o lineales
+
+Código Voluminoso: A veces requiere más líneas de código.
+
+------------------------------------------------------------------------------
+
+Implementacion de la Búsqueda Binaria para encontrar un estudiante por apellido. Es vital recordar que este algoritmo solo funciona si el arreglo está previamente ordenado.

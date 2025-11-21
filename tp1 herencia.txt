@@ -1,0 +1,12 @@
+HERENCIA
+
+- Explicación de cómo implementaste la herencia y el polimorfismo en tu solución.
+- Ejemplos de ejecución que muestren el comportamiento polimórfico.
+
+POLIMORFISMO
+
+El polimorfismo se implementó de dos maneras principales: a través de una Interfaz y mediante la Sobreescritura de Métodos
+
+EJ DE POLIMORFISMO
+
+La demostración más clara del polimorfismo ocurre cuando se itera sobre la lista de MiembroUniversidad en la clase Universidad.
