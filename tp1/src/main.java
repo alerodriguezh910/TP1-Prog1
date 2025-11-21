@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class MainCompleto {
+public class Main {
     public static void main(String[] args) {
         Universidad miUniversidad = new Universidad("Global Tech");
 
@@ -82,3 +82,4 @@ public class MainCompleto {
         }
     }
 }
+
